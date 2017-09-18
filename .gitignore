@@ -25,7 +25,8 @@ wheels/
 *.egg
 MANIFEST
 config/settings.py
-notebook/
+logs/*.log
+notebook/*.ipynb
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
